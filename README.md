@@ -1,4 +1,8 @@
 # Sars_Cov_2_Assembly_CIMBIUR
+
+Realizado por: Sergio Andrés Castañeda Garzón
+Estudiante PhD. CIMBIUR
+
 Adaptación de protocolo artic-network para el ensamblaje de genomas de Sars-Cov-2.
 
 Tomado de: https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.html
