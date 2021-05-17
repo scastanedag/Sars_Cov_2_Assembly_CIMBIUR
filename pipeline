@@ -22,7 +22,7 @@ source activate /home/admin.cn02/anaconda2/envs/artic-ncov2019
 
 ./guppy_basecaller -c dna_r9.4.1_450bps_fast.cfg -i /fast5_pass -s /Basecalling_file/  --cpu_threads_per_caller 34 -r  --num_callers 4
 
-# Cambiar la ruta donde están los fast5_pass (-i) y donde quedrán los fastq (-s)
+# Cambiar la ruta donde están los fast5_pass (-i) y donde quedarán los fastq (-s)
 
 # Demultiplexing 
 
